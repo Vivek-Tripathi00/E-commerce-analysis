@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/E-commerce_SalesPower_BI_Template.webp" alt="E-Commerce Power BI Dashboard Preview" width="90%" />
+  <img src="images/E-commerce_Sales_Power_BI_Template.webp" alt="E-Commerce Power BI Dashboard Preview" width="90%" />
 </p>
 
 ---
